@@ -1,0 +1,52 @@
+thunar /
+fcitx & rime /
+DeaDBeeF /
+firefox /
+chrome /
+wine /
+winetricks /
+lutris /
+bottle /
+gnome screenshot /
+baobab
+gnome calculator \ qalculate!
+ulauncher /
+vim /
+vscode 
+grapejuice 
+weylus
+libreoffice 
+steam /
+tlauncher
+evince /
+image viewer (eog) /
+openshot
+blender
+discord /
+kde connect
+synology cloud station drive /
+telegram /
+wechat (deepin-wine-wechat)
+zoom
+x11vnc
+audacity
+mpv /
+obs /
+cool retro term
+gparted /
+virtualbox /
+youtube-dl /
+ffmpeg /
+git /
+scrcpy
+vdl monitor
+yay /
+wget /
+curl /
+tlp /
+pacman-auto-update /
+
+dunst
+ttf-ubuntu-font-family
+brightnessctl
+lxappearance-gtk3

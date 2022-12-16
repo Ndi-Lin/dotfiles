@@ -1,0 +1,13 @@
+export GTK_IM_MODULE=fcitx
+export QT_IM_MODULE=fcitx
+export XMODIFIERS="@im=fcitx"
+
+ulauncher &
+fcitx &
+Telegram &
+discord &
+synology-cloud-station-drive &
+nm-applet &
+dunst &
+bash /home/andy/lid-lock.sh &
+feh --bg-fill /home/andy/.icewm/black.png

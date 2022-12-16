@@ -1,0 +1,36 @@
+call plug#begin()
+
+"show line number
+set nu
+
+"syntax highlighting
+syntax on
+
+"indentation according to different file type
+filetype indent on
+
+"automatic indentation
+set autoindent
+
+"smart indentation
+set smartindent
+
+"amount of spaces for a tab
+set tabstop=4
+
+"amount of spaces for text shifting
+set shiftwidth=4
+
+"vim spelling checker
+set spell
+
+"avoid breaking a word when wrapping lines
+set linebreak
+
+"highlight search results
+set hlsearch
+
+"ignore cases when searching
+set ignorecase
+
+call plug#end()
